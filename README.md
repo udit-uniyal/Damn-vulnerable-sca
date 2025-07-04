@@ -29,7 +29,7 @@ In addition, there is one compromised package, that lacks a CVE, but is maliciou
 | CVE-2021-33623             | trim-newlines   | [https://nvd.nist.gov/vuln/detail/CVE-2021-33623](https://nvd.nist.gov/vuln/detail/CVE-2021-33623)|
 | CVE-2020-13935             | spring-websocket | [https://nvd.nist.gov/vuln/detail/CVE-2020-13935](https://nvd.nist.gov/vuln/detail/CVE-2020-13935)|
 | Malicious Package (No CVE) | xz-java         | [https://central.sonatype.com/artifact/io.github.xz-java/xz-java](https://central.sonatype.com/artifact/io.github.xz-java/xz-java)|
-
+sdfdf
 
 
 ## Steps to run SCAGoat
